@@ -6,7 +6,7 @@ namespace Proxy
     {
         static void Main(string[] args)
         {
-
+            // trying changes with c#
             Proxy.ISubject myPro = new Proxy.Proxys();
 
             myPro.Reuquest(1);
